@@ -1,8 +1,6 @@
 # To-do app
 
-Tech stack: React an typescript
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Tech stack: [Create React App](https://github.com/facebook/create-react-app). and typescript
 
 ## Available Scripts
 
